@@ -1,0 +1,16 @@
+{
+  "name": "passport-foodspotting",
+  "version": "0.1.0",
+  "description": "Foodspotting authentication strategy for Passport.",
+  "author": "Jared Hanson <jaredhanson@gmail.com> (http://www.jaredhanson.net/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jaredhanson/passport-foodspotting.git"
+  },
+  "main": "./lib/passport-foodspotting",
+  "dependencies": {
+    "passport-oauth": ">= 0.1.0"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["passport", "foodspotting", "auth", "authn", "authentication", "identity"]
+}
